@@ -59,7 +59,7 @@ public class AccessLoggerInfo {
     private Map<String, Object> parameters;
 
     /**
-     * 数据库ip地址
+     * 国网工牌制作数据库ip地址
      */
     private String 101.132.77.231;
 
